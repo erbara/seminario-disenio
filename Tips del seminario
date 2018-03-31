@@ -11,3 +11,7 @@ mvn
 git ignore .io
 
 para las cosas que normalmente aparecen en ciertas cosas, y saber qué cosas hay que ignorar
+
+---
+el nombre del archivo gitignore es ".gitignore" 
+es un archivo oculto
