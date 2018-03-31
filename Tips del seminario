@@ -22,3 +22,7 @@ source -> main -> java
 source -> test > java
 
 es para convenciones de maven - que separa las cosas por lenguaje
+
+------
+Refacto -> rename
+para cuando a un metodo le quiero cambiar el nombre en todos los lugares donde se lo utiliza
