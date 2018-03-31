@@ -1,0 +1,13 @@
+git reflog
+en la carpeta .git estan todos los commits que alguna vez existieron
+
+es para recuperar archivos se se borro todo el repo
+-------
+
+archivos de configuracion para poder importar en eclipse
+mvn 
+
+-------
+git ignore .io
+
+para las cosas que normalmente aparecen en ciertas cosas, y saber qué cosas hay que ignorar
