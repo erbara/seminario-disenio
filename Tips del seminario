@@ -15,3 +15,10 @@ para las cosas que normalmente aparecen en ciertas cosas, y saber qué cosas hay
 ---
 el nombre del archivo gitignore es ".gitignore" 
 es un archivo oculto
+
+---
+carpetas creadas:
+source -> main -> java
+source -> test > java
+
+es para convenciones de maven - que separa las cosas por lenguaje
