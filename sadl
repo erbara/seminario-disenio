@@ -1,0 +1,4 @@
+git reflog
+en la carpeta .git estan todos los commits que alguna vez existieron
+
+es para recuperar archivos se se borro todo el repo
